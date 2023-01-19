@@ -21,9 +21,6 @@ Copy code
 
 2.  Install the required packages
 
-Copy code
-
-`pip install -r requirements.txt` 
 
 ## Usage
 
