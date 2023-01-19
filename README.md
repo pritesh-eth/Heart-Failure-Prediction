@@ -17,7 +17,7 @@ This project aims to predict the risk of heart failure in patients using machine
 
 Copy code
 
-`git clone https://github.com/yourusername/heart-failure-prediction.git` 
+`git clone https://github.com/pritesh-eth/Heart-Failure-Prediction/tree/main/code` 
 
 2.  Install the required packages
 
